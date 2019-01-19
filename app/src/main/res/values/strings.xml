@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">checkbox</string>
+    <string name="txt_valor1">Primer valor</string>
+    <string name="txt_valor2">Seguendo valor</string>
+    <string name="check_suma">Suma</string>
+    <string name="check_resta">Resta</string>
+    <string name="bt_boton">Calcular</string>
+    <string name="tv_respuesta">Resultado</string>
+
+</resources>
